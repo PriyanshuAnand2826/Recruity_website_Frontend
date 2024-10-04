@@ -1,0 +1,30 @@
+.fields_register{
+  padding: 1rem;
+  font-family: "DM Sans", sans-serif;
+  margin-top: 20px;
+  display: flex;
+  width: 60%;
+  font-weight: bold;
+  border-radius: 5px;
+  border: 1px solid grey;
+  flex-direction: column;
+  overflow-y: auto;
+}
+.btn{
+  display: block;
+  margin-top: 10px;
+  background-color: #ED5353;
+  border: none;
+  width: 35%;
+  font-family: "DM Sans", sans-serif;
+  color: white;
+  padding: 10px;
+  font-size: 1rem;
+  border-radius: 5px;
+  cursor: pointer;
+}.form{
+  padding: 1rem 1.5rem;
+}
+.bottom_text{
+margin-top: 10px;
+}

@@ -1,0 +1,25 @@
+.container{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  
+}
+
+.left{
+  font-family: "DM Sans", sans-serif;
+  font-size: 2rem;
+  justify-content: center;
+  width: 40%;
+  padding: 1rem 1rem;
+  margin-left: 3rem;
+  display: flex;
+  flex-direction: column;
+}
+.right{
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  background-image: url('../assets//right_image.png');
+  background-position: center;
+  object-fit: fill;
+}
